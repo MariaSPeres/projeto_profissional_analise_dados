@@ -1,0 +1,5 @@
+Exclusão da tabela Brasil para evitar duplicidade nos cálculos.
+
+Tratamento dos valores ausentes identificados nas linhas de Roraima e Amapá.
+
+Remoção das linhas de "Região Metropolitana": As Regiões Metropolitanas junto aos Estados distorce o somatório regional, gerando um valor maior que o real. Para garantir a integridade dos dados, manteremos apenas o nível estadual.
